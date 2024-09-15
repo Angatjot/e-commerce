@@ -11,7 +11,7 @@ eShop.com is an e-Commerce website that enables users to shop through variety of
 - :star: [Website Link](#website-link)
 - :star: [Getting Started](#getting-started)
 - :star: [Prerequisites](#prerequisites)
-- :star: [Installing](#installing)
+  
 - :star: [Built With](#built-with)
 - :star: [Software Developer](#software-developer)
 
@@ -31,9 +31,7 @@ You need preferably the latest version of Chrome, and text editor.
 
 #### VSCode is my go to: https://code.visualstudio.com/
 
-## Installing
 
-To get started follow this guide:
 
 
 
