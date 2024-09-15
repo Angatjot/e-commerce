@@ -60,13 +60,7 @@ const Contact = () => {
                   </div>
                   <div className="flex items-center gap-2 md:text-xl  my-2">
                      <AiOutlineTwitter />
-                     <a
-                        href="https://twitter.com/kartik_im"
-                        rel="noreferrer"
-                        target="_blank"
-                     >
-                        @kartik_im
-                     </a>
+                  
                   </div>
                </div>
             </section>
