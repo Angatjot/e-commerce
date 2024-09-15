@@ -35,31 +35,8 @@ You need preferably the latest version of Chrome, and text editor.
 
 To get started follow this guide:
 
-#### FOR DEVELOPMENT PURPOSES
 
-In your terminal clone repo to your local machine using git clone:
 
-```
-git clone https://github.com/kartikpavan/Fullstack-Ecommerce.git
-```
-
-Move to your newly cloned repo by entering the following in your terminal:
-
-```
-$ cd Fullstack-Ecommerce && yarn or npm install
-```
-
-To Run Project:-
-
-```
-$ yarn dev or npm run dev 
-```
-
-To open all project files from terminal using VSCode just tpye and enter:
-
-```
-$ code .
-```
 
 ## Built With
 
@@ -76,4 +53,4 @@ $ code .
 
 ## Software Developer
 
-- **Kartik Pavan**
+- **Angatjot singh**
